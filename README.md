@@ -2,6 +2,9 @@
 - 👀 I’m interested in New Technologies (ETH, Blockchain..etc)
 - 🌱 I’m currently learning R and Oracle
 - 📫 How to reach me aymaneelhattab@icloud.com
+- 🌱 Top 10% Freelancers on Upwork
+- 🌱 5 Years learning and building projects with Python
+- 🌱 Over 5,000 hours worth of projects delivered to clients around the 
 
 <!---
 u-Aymane/u-Aymane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
