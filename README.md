@@ -6,6 +6,9 @@
 - 🌱 5 Years learning and building projects with Python
 - 🌱 Over 5,000 hours worth of projects delivered to clients around the 
 
+#### 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Aymane&layout=compact)](https://github.com/u-Aymane)
+
 <!---
 u-Aymane/u-Aymane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
