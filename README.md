@@ -4,7 +4,7 @@
 - 📫 How to reach me aymaneelhattab@icloud.com
 - 🌱 Top 10% Freelancers on Upwork
 - 🌱 5 Years learning and building projects with Python
-- 🌱 Over 5,000 hours worth of projects delivered to clients around the 
+- 🌱 Over 5,000 hours worth of projects delivered to clients around the world
 
 #### 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Aymane&layout=compact)](https://github.com/u-Aymane)
